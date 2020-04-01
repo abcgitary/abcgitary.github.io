@@ -102,7 +102,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">o mnie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">autorskie covery</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">uczniowie</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kuba</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/playlist?list=PLlQHhpVXKZMmtdlj5hsNWd6IKhbl-zTFf\">Mati</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/playlist?list=PLlQHhpVXKZMlbG41YxYVIkHFaxtcbXyN3\">Małgosia</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">o mnie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">autorskie covery</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">uczniowie</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kuba</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/playlist?list=PLlQHhpVXKZMmtdlj5hsNWd6IKhbl-zTFf\">Mati</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/playlist?list=PLlQHhpVXKZMlbG41YxYVIkHFaxtcbXyN3\">Małgosia</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">POBIERZ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -157,7 +157,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "active": true,
@@ -187,7 +187,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -206,34 +206,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guitar-806256-960-720-600x428.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/epiphone-953252-960-720-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hifi-1936271-1920-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/polynesia-3021072-340.webp",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
