@@ -339,7 +339,7 @@
           },
           "text1": "<strong>Adres</strong><br>Warszawa, Mysiadło",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\nEmail: <a href=\"mailto:abcgitary@o2.pl\">abcgitary@o2.pl</a><br>GSM I: +48 601 373 401<br>GSM II: +48 &nbsp;606 113 733",
-          "text3": "<strong>Linki</strong><br><strong><br></strong><a href=\"https://www.facebook.com/abcgitary\" target=\"_blank\">Facebook</a><br><a href=\"https://www.youtube.com/channel/UC-LeRX_KDBUyBmVZjyPaPUQ\" target=\"_blank\">You Tube</a><br><br>",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Do polubienia<br></b></span></font><br><strong><br></strong><a href=\"https://www.facebook.com/abcgitary\" target=\"_blank\">Facebook</a><br><a href=\"https://www.youtube.com/channel/UC-LeRX_KDBUyBmVZjyPaPUQ\" target=\"_blank\">You Tube</a><br><br>",
           "_tags": [
             "Theme"
           ],
